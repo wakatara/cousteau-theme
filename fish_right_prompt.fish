@@ -15,7 +15,7 @@ function get_git_status -d "Gets the current git status"
       set_color -b B48EAD
       set_color 2E2440
     else
-      set_color -b 8FBCBB
+      set_color -b 5E81AC
       set_color ECEFF4
     end
 
