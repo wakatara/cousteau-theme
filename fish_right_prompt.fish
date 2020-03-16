@@ -13,10 +13,10 @@ function get_git_status -d "Gets the current git status"
       end
       echo " "
       set_color -b B48EAD
-      set_color black
+      set_color 2E2440
     else
-      set_color -b 88C0D0
-      set_color white
+      set_color -b A3BE8C
+      set_color ECEFF4
     end
 
     echo " $ref "
